@@ -1,0 +1,18 @@
+.hlinks {
+  font-size: 1.05rem;
+  font-weight: 400;
+  margin-left: auto;
+  
+}
+.logo {
+font-size: 1.5rem;
+font-weight: 500;
+}
+.nav-link {
+  color: #fff !important;
+  margin: 0 1.25rem !important;
+}
+.headerapp{
+  height: 4rem;
+  
+}

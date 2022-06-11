@@ -1,0 +1,26 @@
+.homenav{
+    background-image: linear-gradient( 109.6deg,  rgba(15,2,2,1) 11.2%, rgba(36,163,190,1) 91.1% );
+}
+.txt{
+    color: #fff;
+    margin: 0 10rem 0 10rem;
+    padding: 0;
+    font-size: 1.4rem;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    line-height: 2.2rem;
+    font-weight: 400;
+}
+.logoc{
+    width: 150px;
+    margin-bottom: 2rem;
+    margin-top: 0;
+}
+.btnc{
+    margin-top: 2rem;
+    font-weight: 500;
+}
